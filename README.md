@@ -9,8 +9,9 @@ In this educational program, you will build a website using Python and Flask wit
 
 ## Prerequisites
 * An Azure account. Learn how to create a free account in Create an [Azure account for students](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=academic-0000-cxa)
-* [Python3.6](https://www.python.org/downloads/) or later and VS code installed on your computer. <br> At the top of the article, choose the instructions for your configuration: Windows, Linux, or macOS.<br>
-[Visual Studio Code](https://code.visualstudio.com/)<br>
+* [Python3.6](https://www.python.org/downloads/) or later and VS code installed on your computer. 
+* [Visual Studio Code](https://code.visualstudio.com/) should be installed. Choose the Visual Studio Code that works for your configuration: Windows, Linux, or macOS.<br>
+<br>
 
 # STEP 1: 
 1. Installed python version in your computer must be 3.6 or newer, to check it:<br>
